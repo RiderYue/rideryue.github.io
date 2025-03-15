@@ -1,5 +1,5 @@
-google.com, pub-7339374827711774, RESELLER, f08c47fec0942fa0
-unityads.com, 18966615869456, RESELLER, a48d6d83b0ec3f7c
+google.com, pub-7339374827711774, DIRECT, f08c47fec0942fa0
+unityads.com, 18966615869456, DIRECT, a48d6d83b0ec3f7c
 ironsrc.com, 213a52f0d, DIRECT, 5a4f20c2c4f24d37
 video.unrulymedia.com, 2743945877, RESELLER
 pubmatic.com, 162882, RESELLER, 5d62403b186f2ace
